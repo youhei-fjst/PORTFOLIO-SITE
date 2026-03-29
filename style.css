@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+body{
+  background: #eaeaea;
+}
+
 .firstview{
   width: 100%;
   padding: 16px;
