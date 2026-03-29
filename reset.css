@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-weight: normal;
+  text-decoration: none;
+  list-style: none;
+  align-items: center;
+  vertical-align: bottom;
+}
+
+a {
+  color: #000;
+}
