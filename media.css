@@ -1,1 +1,128 @@
-@charset "utf-8";
+/* @charset "utf-8";
+
+
+section>p {
+  font-size: 32px;
+}
+
+* {
+  font-size: 16px;
+}
+
+
+h3 {
+  margin: 0 16px;
+}
+
+.works {
+
+  img {
+    margin: 0 auto 0 0;
+  }
+
+  width: 100%; 
+}
+
+.one {
+  display: flex;
+  justify-content: space-between;
+
+  .two {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+
+    .three {
+      display: flex;
+      flex: 1;
+
+      .date,
+      .gaiyou {
+        flex: 1;
+      }
+    }
+  }
+}
+
+.about {
+  background: #fff;
+}
+
+.youhei,.kuwasiku {
+  margin: 0 auto;
+  max-width: 960px;
+  width: calc(100% - 128px);
+
+  p {
+    text-align: left;
+  }
+}
+
+.kuwasiku{
+  display: flex;
+}
+
+.contact {
+  background: #e7cc49;
+  padding: 16px 0;
+  
+  .thanks {
+    font-size: 24px;
+  }
+  
+  .cntct {
+    font-size: 128px;
+  }
+  
+  .address {
+    margin: 16px auto;
+    width: 480px;
+    height: 64px;
+    background: #fff;
+    border-radius: 32px;
+  
+    a {
+      line-height: 64px;
+    }
+  }
+}
+
+.circle{
+  margin: 16px;
+  border: #000 1px solid;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  align-items: center;
+}
+
+.circle img{
+  align-items: center;
+  margin: auto;
+}
+
+footer{
+  background: #000;
+  padding: 32px 0;
+  
+  nav{
+    margin: 0 auto;
+    max-width: 1280px;
+    width: calc(100% - 128px);
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    
+    a{
+      margin: 0 0 16px;
+      color: #fff;
+      font-size: 16px;
+    }
+  }
+  
+  small{
+    color: #fff;
+    font-size: 12px;
+  }
+} */
