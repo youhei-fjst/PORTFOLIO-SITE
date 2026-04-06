@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.samune,
+.date,
+.gaiyou {
+  margin: 16px 0;
+  
+  p {
+    margin: 4px 0;
+  }
+}
+
+.design {
+  margin: 64px 0 32px;
+  
+  img{
+    object-fit: cover;
+  }
+}
